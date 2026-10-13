@@ -6,7 +6,7 @@
 | Campo | Información |
 | --- | --- |
 | Integrantes | [Javier Lizarazo, Jesús Acuña, Bladimir Parra] |
-| Docente | [COMPLETAR] |
+| Docente | [AMAYA TEJERA NAZHIR JESUS] |
 | Institución | Corporación Universidad de la Costa (CUC) |
 | Fecha de entrega | [14/10/2026] |
 | Repositorio | [COMPLETAR enlace de GitHub o GitLab] |
