@@ -5,11 +5,10 @@
 
 | Campo | Información |
 | --- | --- |
-| Grupo | [COMPLETAR] |
-| Integrantes | [COMPLETAR nombres completos y códigos] |
+| Integrantes | [Javier Lizarazo, Jesús Acuña, Bladimir Parra] |
 | Docente | [COMPLETAR] |
 | Institución | Corporación Universidad de la Costa (CUC) |
-| Fecha de entrega | [COMPLETAR] |
+| Fecha de entrega | [14/10/2026] |
 | Repositorio | [COMPLETAR enlace de GitHub o GitLab] |
 
 ---
